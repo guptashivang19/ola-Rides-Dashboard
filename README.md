@@ -101,27 +101,19 @@ Revenue increases with higher distance, indicating premium rides are more profit
 5. Ratings Analysis
 
 Both drivers and customers maintain ratings around 4.0 across all vehicle categories.
-
 E-Bikes and SUVs slightly outperform others in driver ratings.
-
 📈 Dashboard Highlights
 
 The interactive Power BI dashboard includes:
-
 KPI Cards: Total bookings, booking value, cancellation rate, success rate.
-
 Pie Charts: Booking status, customer & driver cancellation reasons.
-
 Line & Bar Charts: Ride volume trends, revenue vs distance, revenue by payment method.
-
 Tables: Vehicle-wise performance, top customers.
-
 Ratings: Customer vs driver comparison across vehicle categories.
 
 🧾 Final Conclusion
 
 The Ola rides data analysis uncovered valuable insights for business decision-making:
-
 ✅ Optimize driver allocation and customer communication to reduce cancellations.
 ✅ Promote digital payments (UPI/cards) to lower cash dependency.
 ✅ Focus on Prime Sedan & E-Bike as top-performing vehicle types for revenue.
