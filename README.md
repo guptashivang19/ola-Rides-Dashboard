@@ -4,11 +4,6 @@
 
 This project focuses on analyzing Ola ride booking data using Power BI for dashboard visualization. The goal is to uncover booking trends, identify customer and driver behavior patterns, evaluate cancellation reasons, and assess revenue performance across vehicle types and payment modes.
 
-📦 Dataset Used
-
-[👉 View Dataset](olasheet.csv)
-
-
 🧰 Tools & Technologies Used
 
 Microsoft Power BI – For interactive dashboard creation and data visualization
